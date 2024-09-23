@@ -5,8 +5,9 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjcxMTQ3MDAsIm5iZiI6MTcyNzExNDQwMCwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTIzVDE4MDAwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY1MjBiNzAyNGMwYWRhYzIwNTE3NzZkZGI1MzA3YTc2ODE0ODE1OGRlNTY0NGZhMzAwZTg5ZmFmNTEzNDMyYzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.C8gAc_X9uaDiJ6yp1zBJaiqhsFp78rGStb0V4pKQ75g"  />
+  <img height="400" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="Autoplaying GIF" />
 </div>
+
 
 
 ###
@@ -18,8 +19,8 @@
 <h2 align="left">About me</h2>
 
 ###
-<p align="left">✨ I'm a computer Engineering Undergrad from Nepal, working with 0s and 1s.</p
-<p align="left">📚 I'm currently learning React, Data Science and ML<br>🎲 If you wanna talk about Football and  Literature, I have hours to burn.<br><br>(More about me when you meet me :)</p>
+
+<p align="left">✨ I'm a computer Engineering Undergrad from Nepal, working with 0s and 1s.<br>📚 I'm currently learning React, Data Science and ML<br>🎲 If you wanna talk about Football and  Literature, I have hours to burn.<br><br>(More about me when you meet me :)</p>
 
 ###
 
