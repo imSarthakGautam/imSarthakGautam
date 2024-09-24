@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ I'm a computer Engineering Undergrad from Nepal, working with 0s and 1s.<br>📚 I'm currently learning React, Data Science and ML<br>🎲 If you wanna talk about Football and  Literature, I have hours to burn.<br><br>(More about me when you meet me :)</p>
+<p align="left">✨ I'm a computer Engineering Undergrad from Nepal, working with 0s and 1s.<br>📚 Currently learning React, Data Science and ML<br>🎲 If you wanna talk about Football and  Literature, I have hours to burn.<br><br>(More about me when you meet me :)</p>
 
 ###
 
